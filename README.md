@@ -13,9 +13,9 @@ pkg install tesseract
 
 pkg install unzip
 
-git clone https://github.com/Fxmods/FXMODS/tree/main
+git clone https://github.com/Fxmods/FXMODS
 
-cd w
+cd FXMODS
 
 unzip w.zip
 
@@ -23,4 +23,9 @@ cd w
 
 bash install.sh
 
+
+RUN:
 npm start
+
+
+Pdst Whoami es gay
