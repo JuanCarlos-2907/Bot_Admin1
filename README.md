@@ -13,7 +13,7 @@ pkg install tesseract
 
 pkg install unzip
 
-git clone https://github.com/Fxmods/FXMODS/new/main?readme=1
+git clone https://github.com/Fxmods/FXMODS/tree/main
 
 cd w
 
