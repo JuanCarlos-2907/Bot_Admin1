@@ -1,6 +1,7 @@
 ### Hi👋
 
 INSTALL USER TERMUX
+
 pkg install git
 
 pkg install wget
@@ -29,3 +30,4 @@ npm start
 
 
 Pdst Whoami es gay
+Xd
